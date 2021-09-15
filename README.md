@@ -11,6 +11,6 @@ To map to database model with DTO model I am using AutoMapper (a mapping of prop
 ### I have created a reccord (MyResume) with swagger.
 ![ACResume.Swagger](/ACResume.png)
 
-### I have also created a NoSQL db - MongoDb Atlas and succesfully added a record into a Cluster0 Databse.
+### I have also created a NoSQL db - MongoDb Atlas and succesfully added a record into a Cluster0 Database.
 ![ACResume.MongoDb](ACResumeMongoDb.png)
   
